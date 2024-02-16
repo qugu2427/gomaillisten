@@ -1,4 +1,4 @@
-package main
+package smtpin
 
 const (
 	crlf    string = "\r\n"

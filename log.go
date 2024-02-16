@@ -1,4 +1,4 @@
-package main
+package smtpin
 
 type LogLevel uint8
 
